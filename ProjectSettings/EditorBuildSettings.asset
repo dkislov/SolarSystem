@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Solar System.unity
+    guid: eb2044dad3d55cd499e56c0510cad6cc
   m_configObjects: {}
